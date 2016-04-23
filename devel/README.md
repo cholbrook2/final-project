@@ -7,7 +7,7 @@ All you need to do is start the program and select a type of food from the list,
 Addresses:
 
 American:
-310 Lakeside - 301 E Pine St, Orlando, FL 32801
+310 Lakeside - 301 E Pine St, Orlando, FL 32801 <br>
 American Kitchen Bar & Grill - 1905 Hotel Plaza Blvd, Lake Buena Vista, FL 32830
 Artisans Table - 22 E Pine St, Orlando, FL 32801
 B.B. King's Blues Club - 9101 International Dr Suite 2230, Orlando, FL 32819
