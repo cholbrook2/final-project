@@ -8,7 +8,7 @@ def generator():
     print('Welcome to the Restaurant Generator!')
     print('We solve debates in a matter of seconds!')
     print('Please choose from these types of restaurants:')
-    print('American, Asian, Indian, Italian, Latin, Mediterranean, or any of these.')
+    print('American, Asian, Indian, Italian, Latin, Mediterranean, or Any')
 
     choice = input()
     AmcnFd = ['310 Lakeside', 'American Kitchen Bar & Grill', 'Artisans Table', "B.B. King's Blues Club",
